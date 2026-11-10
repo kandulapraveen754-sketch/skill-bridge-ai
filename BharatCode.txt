@@ -1,0 +1,12 @@
+project Name: skill bridge ai
+features
+ai powered skill gap analysis
+personalised learning roadmaps
+carrer path recommendations
+ai career guidance
+smart skill assessments
+recommend learning resources
+student progress tracking
+industry-relevant skill suggestions
+personalized improvement plans
+ai -powered student assistance
